@@ -11,3 +11,8 @@
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 80%;">
   <iframe src="interactive_graph2.html" style="position: absolute; top: 0; left: 0; width: 110%; height: 90%;" frameborder="0"></iframe>
 </div>
+
+*Compensation and Productivity Metrics by Neurology Subspecialty*
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 80%;">
+  <iframe src="interactive_graph3.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 80%;" frameborder="0"></iframe>
+</div>
